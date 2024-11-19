@@ -1,4 +1,4 @@
 document.getElementById("raceForm").addEventListener("submit", function (event) {
     event.preventDefault();
-    alert("Registration successful!");
+    alert("🎉 Thank you for registering! Best of luck for your race! 🎉");
 });
